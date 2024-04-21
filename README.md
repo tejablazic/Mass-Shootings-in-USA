@@ -6,6 +6,7 @@ Na začetku sva izbrala obsežen nabor podatkov o strelskih incidentih v ZDA,
 ki vključujejo informacije o datumih, lokacijah, številu ranjenih in številu smrtnih žrtev. Nato sva s pomočjo analize podatkov in vizualizacije interpretirala te podatke.
 
 ### Posnetek predstavitve
+https://youtu.be/l_-6MnBRCr8
 
 
 Pripravila: *Luka Debenjak*, *Teja Blažič*
